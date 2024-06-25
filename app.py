@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import openpyxl
-import os
 
 # 데이터 불러오기
 file_path = 'cafe.xlsx'
